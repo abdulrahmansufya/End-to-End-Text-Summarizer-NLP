@@ -9,6 +9,7 @@ nltk
 tqdm
 PyYAML
 matplotlib
+evaluate
 torch
 notebook
 boto3
