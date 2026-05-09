@@ -129,9 +129,9 @@ Accepts input text and returns a generated summary.
 
 # API Preview
 
-```md
+
 ![FastAPI Preview](assets/fastapi-preview.png)
-```
+
 
 ---
 
